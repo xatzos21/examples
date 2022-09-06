@@ -3,7 +3,7 @@
 
 
 
-# Using the skills you have already + the knowledge available online,
+# Using the skills  you have already + the knowledge available online,
 # you are now to program a simple GUI (Graphical User Interface).
 
 
